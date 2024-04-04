@@ -1,18 +1,15 @@
 # Brew-time
-This is a simple landing page project for showcasing coffee products.
+This project is a simple landing page for showcasing coffee products. It features a responsive design, a product showcase section, and a contact form for inquiries.
 
 # Features
 Product showcase
 Contact form
 
 # Installation
-Clone the repository: git clone git@github.com:coffe3/brew-time.git
-Open index.html in a web browser.
+Clone the repository and open "index.html" in a web browser.
 
 # Customization
-Replace images in the img directory.
-Modify text content in index.html.
-Customize CSS styles in styles.css.
+Customize images, text, and styles according to your preferences.
 
 # Contributing
-Contributions are welcome. Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to suggest improvements or report issues.
