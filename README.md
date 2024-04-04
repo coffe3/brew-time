@@ -14,5 +14,5 @@ Replace images in the img directory.
 Modify text content in index.html.
 Customize CSS styles in styles.css.
 
-Contributing
+# Contributing
 Contributions are welcome. Feel free to open an issue or submit a pull request.
