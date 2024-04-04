@@ -23,6 +23,7 @@ body {
     gap: 24px;
     margin-top: 0;
     padding: 16px;
+    margin-right: 100px;
 }
 
 a {
@@ -70,6 +71,11 @@ h1 {
     border: 0;
     color:  #0E0504;
     background-color: #EFC3A4;
+}
+
+.bodyimg, .navlinks {
+    display: flex;
+    align-items: center;
 }
 
 .bodyimg {
