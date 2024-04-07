@@ -36,6 +36,7 @@ a {
     background-color: #794028;
     height: 450px;
 }
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -128,6 +129,7 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+
 .container3 p {
     font-size: 36px;
     font-style: italic;
