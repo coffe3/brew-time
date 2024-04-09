@@ -112,3 +112,52 @@ footer {
 footer p {
     font-size: 18px;
 }
+
+.endbody {
+    background-color: #EFC3A4;
+    height: 250px;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+}
+
+.newsletter h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #0E0504;
+    margin-top: 50px;
+}
+
+.newsletter p { 
+    font-size: 18px;
+    font-weight: bolder;
+    color: #0E0504;
+}
+
+.button {
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    border: 0;
+    color:  white;
+    background-color: #0E0504;
+}
+
+#email {
+    border-radius: 8px;
+    border: 1px bold;
+    width: 300px;
+    padding: 12px;
+}
+
+#emailid {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #0E0504;
+}
