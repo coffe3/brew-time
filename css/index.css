@@ -122,6 +122,42 @@ h1 {
     width: 170px;
 }
 
+.para {
+    margin-left: 10px;
+}
+
+.item1 .para {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 150px;
+}
+
+.item2 .para {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 150px;
+}
+
+.item3 .para {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 150px;
+}
+
+.item4 .para {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 150px;
+}
+
 .quotebody {
     display: flex;
     background-color: #EFC3A4;
