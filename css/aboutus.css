@@ -149,6 +149,22 @@ footer p {
     background-color: #0E0504;
 }
 
+#glow-btn-3 {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color:  white;
+    background-color: #0E0504;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 5px #0E0504;
+}
+
 #email {
     border-radius: 8px;
     border: 1px bold;
